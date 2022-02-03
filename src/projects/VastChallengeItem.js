@@ -16,7 +16,7 @@ function VastChallengeItem() {
           </p>
         </ul>
       </div>
-      <span dangerouslySetInnerHTML={template} className="svg" />
+      {/* <span dangerouslySetInnerHTML={template} className="svg" /> */}
     </div>
   );
 }

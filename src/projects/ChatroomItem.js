@@ -13,7 +13,7 @@ function ChatroomItem() {
           the client side
         </p>
         <hr class="my-4"></hr>
-        <a href="https://github.com/RiceR1999/PiTwitterBot">
+        <a href="https://github.com/RiceR1999/Chatroom">
           <img src={imgPathGithub} alt="test" className="img" id="bot" />
         </a>
       </div>
