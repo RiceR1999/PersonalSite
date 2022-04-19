@@ -1,3 +1,5 @@
+import styles from "./Project.module.css";
+
 function BotItem() {
   const imgPathGithub = "/images/githublogo.png";
   const imgPathTwitter = "/images/twitterlogo.png";

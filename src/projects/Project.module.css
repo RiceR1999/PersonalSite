@@ -1,0 +1,26 @@
+.jumbotron {
+  background-color: rgba(206, 209, 37, 0.76);
+  padding: 15px;
+  /*background-color:none !important;*/
+}
+
+.bot {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: none;
+  border-radius: 50%;
+  height: 64px;
+  width: 64px;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgba(181, 184, 15, 0.637);
+}
+
+.img {
+  border-radius: 50%;
+  height: 64px;
+  width: 64px;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgba(181, 184, 15, 0.637);
+}

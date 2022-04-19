@@ -35,7 +35,7 @@ class MyDocument extends Document {
             crossorigin="anonymous"
           />
 
-          <link href="css/styles.css" rel="stylesheet" />
+          <link href="/static/styles.css" rel="stylesheet" />
         </Head>
         <body>
           <Main />
